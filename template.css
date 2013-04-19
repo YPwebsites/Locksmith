@@ -7,12 +7,12 @@ Updated mobile menu 4/5/2013
 
 
 
-@import url("gfx/wp-skeleton.css"); /* Upload stylesheet to GFX folder */
+@import url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/wp-skeleton.css"); /* Upload stylesheet to GFX folder */
 
 @font-face {
 	font-family: "Aachen";
-	src: url("gfx/1102a__.ttf"),
-		 url("gfx/1103a__ttf");
+	src: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/1102a__.ttf"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/1103a__ttf");
 }
 
 header, footer, nav, section, article {display: block;}
@@ -27,7 +27,7 @@ body {
 	}
 	body { 
 		/* Set background image POSITION and REPEAT here! */
-		background: #fff url("gfx/bodyBG.jpg") top center repeat-x scroll;
+		background: #fff url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/bodyBG.jpg") top center repeat-x scroll;
 		}
 		
 .skinBg /* skinBg is one area the user will be able to swap images or change bg color through the design panel */{ 
@@ -209,7 +209,7 @@ blockquote  {
 	font: normal 24px/28px "Aachen", Georgia, "Times New Roman", Times, serif;
 	padding: 5px 20px 25px;
 	border-top: 1px solid #cccccc;
-	background: transparent url("gfx/blockQuoteShadow.png") bottom center no-repeat scroll;
+	background: transparent url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/blockQuoteShadow.png") bottom center no-repeat scroll;
 	background-size: 100% 16px;
 	}
 
@@ -261,7 +261,7 @@ hr {
 	clear: both; 
 	margin: 15px 0 0; 
 	height: 25px; 
-	background: transparent url("gfx/hrBG.png") top center no-repeat scroll;
+	background: transparent url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/hrBG.png") top center no-repeat scroll;
 	background-size: 100%;
 	}
 
@@ -350,7 +350,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#842f2f', end
 	
 
 	
-	background: url("gfx/sidebarBG.png") no-repeat scroll center bottom #404040;
+	background: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/sidebarBG.png") no-repeat scroll center bottom #404040;
 	display:table-cell;
 	*display:block !important;  *float:left; /* display:block and float:left are fixes for IE7 do not remove */
 	padding: 15px 0px 15px;
@@ -452,7 +452,7 @@ div.slogan {
 #header-image-container {
 	margin-top: 10px;
  	padding-bottom: 23px;
-	background: transparent url("gfx/headerImageShadow.png") bottom right no-repeat scroll;
+	background: transparent url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/headerImageShadow.png") bottom right no-repeat scroll;
   }
 
 #header-image-wrapper-1 {} /* WP wraps #siteMainDynHeaderImage1 with #header-image-wrapper-1 by defult but removes it once the image is replaced */
@@ -479,7 +479,7 @@ img#siteMainDynHeaderImage1 {
 			width:746px;	
 		}
 		#header-image-container {
-			background-image: url("gfx/headerImageShadow748.png");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/headerImageShadow748.png");
 			padding-bottom: 17px;	
 		}
 	}
@@ -504,7 +504,7 @@ img#siteMainDynHeaderImage1 {
 		#header-image-container {
 			margin-left:10px; 
 			margin-right:10px;
-			background-image: url("gfx/headerImageShadow400.png");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/headerImageShadow400.png");
 			padding-bottom: 7px;
 		}
 		
@@ -524,7 +524,7 @@ img#siteMainDynHeaderImage1 {
 		#header-image-container {
 			margin-left:10px; 
 			margin-right:10px;
-			background-image: url("gfx/headerImageShadow280.png");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/headerImageShadow280.png");
 			padding-bottom: 4px;
 		}
 		img#siteMainDynHeaderImage1 {
@@ -551,7 +551,7 @@ img#siteMainDynHeaderImage1 {
 to best suit your design. */
 
 #sidebar div.secondBG {
-    background: url("gfx/sidebarRealter.png") no-repeat scroll center top transparent;
+    background: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/sidebarRealter.png") no-repeat scroll center top transparent;
     bottom: 0;
     height: 450px;
     position: absolute;
@@ -577,7 +577,7 @@ ul#nav ul {
 		width:100%;
 		padding: 0;
 		list-style: none;
-		background: #ccc url("gfx/NavItemBG.jpg") top center no-repeat scroll;
+		background: #ccc url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/NavItemBG.jpg") top center no-repeat scroll;
 		margin: 0 0 1px 0;
 		}
 		ul#nav > li.last {
@@ -699,7 +699,7 @@ ul#nav ul {
 		cursor:pointer;
 		margin:6px auto;
 		z-index: 800;
-		background-image:url("gfx/icon-menu.png");
+		background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/icon-menu.png");
 		background-repeat:no-repeat;
 		background-position:top center;
 		z-index:900;
@@ -775,7 +775,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#651111', end
 			padding: 0;
 			list-style: none;
 			list-style-image: none;
-			background: #ccc url("gfx/NavItemBG.jpg") top center no-repeat scroll;	
+			background: #ccc url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/NavItemBG.jpg") top center no-repeat scroll;	
 			background-size: 100% 300px;
 		}
 		
@@ -1311,7 +1311,7 @@ div.widget-button:hover{
 	height: 46px;
 	display: block;
 	margin-bottom: 7px;
-	background: #ddd url("gfx/back-to-top.png") no-repeat center center;
+	background: #ddd url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/back-to-top.png") no-repeat center center;
 	/* rounded corners */
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
@@ -1412,7 +1412,7 @@ a.m-click-phone span, a.m-click-mail span, a.m-click-map span {
 	overflow:hidden;
 	text-align:center;
 	margin:0 auto;
-	background-image: url("gfx/mobile-panel-icons.png");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_f/fb/fb7/357/gfx/mobile-panel-icons.png");
 	background-repeat:no-repeat;
 	display:block;
 	padding:0px;
